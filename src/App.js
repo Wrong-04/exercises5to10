@@ -4,6 +4,7 @@ import Exe6 from "./components/Exe6";
 import Exe7 from "./components/Exe7";
 import Exe8 from "./components/Exe8";
 import Exe9 from "./components/Exe9";
+import Exe10 from "./components/Exe10";
 import { Container } from "react-bootstrap";
 
 function App() {
@@ -13,7 +14,8 @@ function App() {
       {/* <Exe6 /> */}
       {/* <Exe7 /> */}
       {/* <Exe8 /> */}
-      <Exe9 />
+      {/* <Exe9 /> */}
+      <Exe10 />
     </Container>
   );
 }
