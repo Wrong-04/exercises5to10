@@ -11,12 +11,12 @@ import { Container } from "react-bootstrap";
 function App() {
   return (
     <Container>
-      {/* <Exe5 /> */}
-      {/* <Exe6 /> */}
-      {/* <Exe7 /> */}
-      {/* <Exe8 /> */}
-      {/* <Exe9 /> */}
-      {/* <Exe10 /> */}
+      <Exe5 />
+      <Exe6 />
+      <Exe7 />
+      <Exe8 />
+      <Exe9 />
+      <Exe10 />
       <Exe11 />
     </Container>
   );
