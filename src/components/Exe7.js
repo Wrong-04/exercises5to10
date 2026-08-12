@@ -16,7 +16,7 @@ function Exe7() {
         </Col>
         <Col md={4}>
           <Card bg="warning" className="p-3 border-0 rounded-1">
-            <Card.Img variant="top " src="/Imag es/nam1.jpg"></Card.Img>
+            <Card.Img variant="top " src="/Images/nam1.jpg"></Card.Img>
             <Card.Body className="p-0 pt-3 text-center">
               <Card.Title className="small text-dark">
                 <span> Some text inside the first card</span>
